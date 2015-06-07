@@ -24,11 +24,8 @@ AbaxMemory   -- memory tracker
 
 2. How to install
 
-   Use root account or sudo account:
-
-   # tar zxf abaxN.C++.X86_64.tar.gz
-   # cd abaxN.C++.X86_64
-   # ./install.sh
+	Just unpackage the tar file, and you can link to the header and library files in the include and lib directories.
+   $ tar zxf abaxN.C++.X86_64.tar.gz
 
    (N is the version number of the package).
    
